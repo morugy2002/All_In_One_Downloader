@@ -1,4 +1,2 @@
-# Downloaded list :
-
-- [Se7enPro_Setup](./Se7enPro_Setup)
-- [app-arm64-v8a-release](./app-arm64-v8a-release)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
