@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `main.zip` |
-| **Size** | 29.64 MB |
+| **Size** | .01 MB |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
